@@ -131,6 +131,7 @@
 [[译] 理解 LSTM 网络](https://www.jianshu.com/p/9dc9f41f0b29)<br>
 [用于文本分类的RNN-Attention网络](http://blog.csdn.net/thriving_fcl/article/details/73381217)<br>
 [深度学习在文本分类中的应用](http://blog.csdn.net/u010223750/article/details/51437854)<br>
+(必读)[基于深度学习的文本分类？](https://mp.weixin.qq.com/s?__biz=MzIzMjU1NTg3Ng==&mid=2247486702&idx=1&sn=99104c3ea80b0339fcb976deb5918108)<br>
 [用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)<br>
 [PyTorch快速入门教程七（RNN做自然语言处理](https://ptorch.com/news/11.html)<br>
 [PyTorch快速入门教程八（使用word embedding做自然语言处理的词语预测）](https://ptorch.com/news/12.html)<br>
@@ -144,6 +145,8 @@
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)<br>
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)<br>
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
+(必读－讲的很清楚)[机器学习sklearn19.0聚类算法——Kmeans算法](https://blog.csdn.net/loveliuzz/article/details/78783773)<br>
+[sklearn keans算法官方文档](http://scikit-learn.org/stable/modules/clustering.html#k-means)<br>
 <br>
 
 ### 数学<br>
