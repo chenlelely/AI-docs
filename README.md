@@ -147,6 +147,8 @@
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
 (必读－讲的很清楚)[机器学习sklearn19.0聚类算法——Kmeans算法](https://blog.csdn.net/loveliuzz/article/details/78783773)<br>
 [sklearn keans算法官方文档](http://scikit-learn.org/stable/modules/clustering.html#k-means)<br>
+[完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)<br>
+[训练集样本不平衡问题对CNN的影响](https://zhuanlan.zhihu.com/p/23444244)<br>
 <br>
 
 ### 数学<br>
@@ -160,4 +162,5 @@
 [Scaling Apache Giraph to a trillion edges](https://code.facebook.com/posts/509727595776839/scaling-apache-giraph-to-a-trillion-edges/)<br>
 [Large-scale graph partitioning with Apache Giraph](https://code.facebook.com/posts/274771932683700/large-scale-graph-partitioning-with-apache-giraph/)<br>
 [逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)<br>
-<br>
+[阿里AI界的新伙伴，1秒钟自动生成20000条文案](https://yq.aliyun.com/articles/603683?utm_content=m_1000003675)<br>
+[阿里-搜索团队智能内容生成实践](https://zhuanlan.zhihu.com/p/33956907)<br>
