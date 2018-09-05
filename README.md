@@ -164,3 +164,4 @@
 [逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)<br>
 [阿里AI界的新伙伴，1秒钟自动生成20000条文案](https://yq.aliyun.com/articles/603683?utm_content=m_1000003675)<br>
 [阿里-搜索团队智能内容生成实践](https://zhuanlan.zhihu.com/p/33956907)<br>
+[为电商而生的知识图谱，如何感应用户需求？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247488155&idx=1&sn=a0ec228c32153c48d44bbd2d5ff8d003)<br>
