@@ -35,6 +35,7 @@
 [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](https://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)<br>
 [Spark Job执行流程源码解析](http://www.jianshu.com/p/ce982840671a)<br>
 (实用)[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)<br>
+[Spark数据本地化-->如何达到性能调优的目的](https://www.cnblogs.com/jxhd1/p/6702224.html?utm_source=itdadao&utm_medium=referral)<br>
 <br>
 
 ### xgboost<br>
@@ -75,9 +76,13 @@
 [word2vec原理推导与代码分析](http://www.hankcs.com/nlp/word2vec.html)<br>
 (必读,CBOW和Skip-gram讲的很通俗易懂)[深度学习笔记——Word2vec和Doc2vec原理理解并结合代码分析](https://blog.csdn.net/mpk_no1/article/details/72458003)<br>
 (必读,几种句向量方法介绍)[An Overview of Sentence Embedding Methods](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)<br>
+
+[cw2vec理论及其实现](https://bamtercelboo.github.io/2018/05/11/cw2vec/)<br>
+
 <br>
 
 ### NLP<br>
+
 [推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)<br>
 [机器学习 | 八大步骤解决90%的NLP问题](https://zhuanlan.zhihu.com/p/36736328)<br>
 [基于局部敏感哈希的协同过滤算法之simHash算法](https://www.cnblogs.com/hxsyl/p/4456001.html)<br>
@@ -97,9 +102,19 @@
 (必读)[句子相似度算法比较 Comparing Sentence Similarity Methods](http://nlp.town/blog/sentence-similarity/)<br>
 [TF-IDF简介](https://www.cnblogs.com/en-heng/p/5848553.html)<br>
 [idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)<br>
-<br>
+
+[发布一年了，做NLP的还有没看过这篇论文的吗？--“Attention is all you need”](https://blog.csdn.net/sinat_33761963/article/details/83539949)
+
+(必读)[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)<br>
+
+(必读)[从Word Embedding到Bert模型——自然语言处理预训练技术发展史](https://mp.weixin.qq.com/s/FHDpx2cYYh9GZsa5nChi4g)
+
+[深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+
+
 
 ### LDA<br>
+
 [Latent Dirichlet Allocation原始论文](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)<br>
 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)<br>
 [通俗理解LDA主题模型](http://blog.csdn.net/v_july_v/article/details/41209515?utm_source=tuicool)<br>
@@ -145,14 +160,25 @@
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)<br>
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)<br>
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
-(必读－讲的很清楚)[机器学习sklearn19.0聚类算法——Kmeans算法](https://blog.csdn.net/loveliuzz/article/details/78783773)<br>
-[sklearn keans算法官方文档](http://scikit-learn.org/stable/modules/clustering.html#k-means)<br>
 [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)<br>
 [训练集样本不平衡问题对CNN的影响](https://zhuanlan.zhihu.com/p/23444244)<br>
 <br>
 
+### 聚类<br>
+(必读－讲的很清楚)[机器学习sklearn19.0聚类算法——Kmeans算法](https://blog.csdn.net/loveliuzz/article/details/78783773)<br>
+[sklearn keans算法官方文档](http://scikit-learn.org/stable/modules/clustering.html#k-means)<br>
+[K-means与K-means++](https://www.cnblogs.com/wang2825/articles/8696830.html)<br>
+[当我们在谈论K-means：总结](https://zhuanlan.zhihu.com/p/25032944)<br>
+[K-means聚类算法的三种改进(K-means++,ISODATA,Kernel K-means)介绍与对比](http://www.cnblogs.com/yixuan-xu/p/6272208.html)<br>
+<br>
+
 ### 数学<br>
 (必读)[极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)<br>
+[L1正则和L2正则的比较分析详解](https://blog.csdn.net/w5688414/article/details/78046960)<br>
+(必读)[机器学习中的范数规则化之（一）L0、L1与L2范数](https://blog.csdn.net/zouxy09/article/details/24971995)<br>
+[机器学习中的范数规则化之（二）核范数与规则项参数选择](https://blog.csdn.net/zouxy09/article/details/24972869)<br>
+(必读)[机器学习中正则化项L1和L2的直观理解](https://blog.csdn.net/jinping_shi/article/details/52433975)<br>
+[更好地理解正则化：可视化模型权重分布](https://community.bigquant.com/t/%E6%9B%B4%E5%A5%BD%E5%9C%B0%E7%90%86%E8%A7%A3%E6%AD%A3%E5%88%99%E5%8C%96%EF%BC%9A%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B%E6%9D%83%E9%87%8D%E5%88%86%E5%B8%83/113188)<br>
 <br>
 
 ### 其他<br>
@@ -165,3 +191,4 @@
 [阿里AI界的新伙伴，1秒钟自动生成20000条文案](https://yq.aliyun.com/articles/603683?utm_content=m_1000003675)<br>
 [阿里-搜索团队智能内容生成实践](https://zhuanlan.zhihu.com/p/33956907)<br>
 [为电商而生的知识图谱，如何感应用户需求？](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247488155&idx=1&sn=a0ec228c32153c48d44bbd2d5ff8d003)<br>
+[语音信号处理之（四）梅尔频率倒谱系数（MFCC）](https://blog.csdn.net/zouxy09/article/details/9156785)<br>
