@@ -35,8 +35,9 @@
 [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](https://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)<br>
 [Spark Job执行流程源码解析](http://www.jianshu.com/p/ce982840671a)<br>
 (实用)[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)<br>
-[Spark数据本地化-->如何达到性能调优的目的](https://www.cnblogs.com/jxhd1/p/6702224.html?utm_source=itdadao&utm_medium=referral)<br>
-<br>
+[Spark数据本地化-->如何达到性能调优的目的](https://www.cnblogs.com/jxhd1/p/6702224.html?utm_source=itdadao&utm_medium=referral)<br>[Spark算子篇 --Spark算子之aggregateByKey详解](https://www.cnblogs.com/LHWorldBlog/p/8215529.html)
+
+
 
 ### xgboost<br>
 [xgboost原理及应用](http://www.cnblogs.com/zhouxiaohui888/p/6008368.html)<br>
@@ -103,13 +104,43 @@
 [TF-IDF简介](https://www.cnblogs.com/en-heng/p/5848553.html)<br>
 [idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)<br>
 
+[第11届INLG会议论文集](https://aclanthology.coli.uni-saarland.de/volumes/proceedings-of-the-11th-international-conference-on-natural-language-generation)
+
+(必读)[自然语言推理-文本蕴含识别简介](https://blog.csdn.net/u010960155/article/details/81335067)
+
+[Textual Entailment Resource Pool](https://aclweb.org/aclwiki/Textual_Entailment_Resource_Pool)
+
+[深度学习在文本分类中的应用](http://blog.csdn.net/u010223750/article/details/51437854)<br>
+(必读)[基于深度学习的文本分类？](https://mp.weixin.qq.com/s?__biz=MzIzMjU1NTg3Ng==&mid=2247486702&idx=1&sn=99104c3ea80b0339fcb976deb5918108)<br>
+[PyTorch快速入门教程七（RNN做自然语言处理](https://ptorch.com/news/11.html)<br>
+[PyTorch快速入门教程八（使用word embedding做自然语言处理的词语预测）](https://ptorch.com/news/12.html)<br>
+[PyTorch快速入门教程九（使用LSTM来做判别每个词的词性）](https://ptorch.com/news/13.html)<br>
+[Text-CNN 文本分类](http://blog.csdn.net/chuchus/article/details/77847476)<br>
+[Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)<br>
+
+[Deep Learning for NLP Best Practices(深度学习中NLP的最佳实践)](http://ruder.io/deep-learning-nlp-best-practices/index.html)<br>
+
+(基础讲解)[bert代码](https://daiwk.github.io/posts/nlp-bert-code.html)
+
+(必读)[从Word Embedding到Bert模型——自然语言处理预训练技术发展史](https://mp.weixin.qq.com/s/FHDpx2cYYh9GZsa5nChi4g)
+
+[BERT大火却不懂Transformer？读这一篇就够了](https://zhuanlan.zhihu.com/p/54356280)
+
 [发布一年了，做NLP的还有没看过这篇论文的吗？--“Attention is all you need”](https://blog.csdn.net/sinat_33761963/article/details/83539949)
 
 (必读)[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)<br>
 
-(必读)[从Word Embedding到Bert模型——自然语言处理预训练技术发展史](https://mp.weixin.qq.com/s/FHDpx2cYYh9GZsa5nChi4g)
-
 [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+
+(必读)[放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
+
+[完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)<br>
+
+[用于文本分类的RNN-Attention网络](http://blog.csdn.net/thriving_fcl/article/details/73381217)<br>
+
+[用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)<br>
+
+[Text Classification, Part 2 - sentence level Attentional RNN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/)<br>
 
 
 
@@ -144,24 +175,29 @@
 (入门必读)[莫烦的pytorch视频教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)<br>
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>
 [[译] 理解 LSTM 网络](https://www.jianshu.com/p/9dc9f41f0b29)<br>
-[用于文本分类的RNN-Attention网络](http://blog.csdn.net/thriving_fcl/article/details/73381217)<br>
-[深度学习在文本分类中的应用](http://blog.csdn.net/u010223750/article/details/51437854)<br>
-(必读)[基于深度学习的文本分类？](https://mp.weixin.qq.com/s?__biz=MzIzMjU1NTg3Ng==&mid=2247486702&idx=1&sn=99104c3ea80b0339fcb976deb5918108)<br>
-[用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)<br>
-[PyTorch快速入门教程七（RNN做自然语言处理](https://ptorch.com/news/11.html)<br>
-[PyTorch快速入门教程八（使用word embedding做自然语言处理的词语预测）](https://ptorch.com/news/12.html)<br>
-[PyTorch快速入门教程九（使用LSTM来做判别每个词的词性）](https://ptorch.com/news/13.html)<br>
-[Text-CNN 文本分类](http://blog.csdn.net/chuchus/article/details/77847476)<br>
-[Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)<br>
 [人工智障的深度瞎学之路:知乎看山杯夺冠记](https://zhuanlan.zhihu.com/p/28923961)<br>
-[Text Classification, Part 2 - sentence level Attentional RNN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/)<br>
-[Deep Learning for NLP Best Practices(深度学习中NLP的最佳实践)](http://ruder.io/deep-learning-nlp-best-practices/index.html)<br>
 [基于pytorch的CNN、LSTM神经网络模型调参小结](https://www.cnblogs.com/bamtercelboo/p/7469005.html)<br>
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)<br>
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)<br>
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
-[完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)<br>
 [训练集样本不平衡问题对CNN的影响](https://zhuanlan.zhihu.com/p/23444244)<br>
+
+[pytorch loss function 总结](https://blog.csdn.net/zhangxb35/article/details/72464152?utm_source=itdadao&utm_medium=referral)
+
+[关于Batch Normalization的另一种理解](https://blog.csdn.net/aichipmunk/article/details/54234646)
+
+[卷积神经网络（CNN）之一维卷积、二维卷积、三维卷积详解](https://www.cnblogs.com/szxspark/p/8445406.html)
+
+[浅析深度ResNet有效的原理](https://blog.csdn.net/u014296502/article/details/80438616)
+
+[LSTM参数个数计算](https://blog.csdn.net/taoyafan/article/details/82803943)
+
+[LSTM的参数数量如何计算？](https://www.zhihu.com/question/263700757)
+
+[LSTM的神经元个数](https://www.cnblogs.com/wushaogui/p/9176617.html)
+
+[LSTM 优化之路](https://mp.weixin.qq.com/s/H0AKuKn1XQDEa06jDm3Nug)
+
 <br>
 
 ### 聚类<br>
@@ -179,6 +215,17 @@
 [机器学习中的范数规则化之（二）核范数与规则项参数选择](https://blog.csdn.net/zouxy09/article/details/24972869)<br>
 (必读)[机器学习中正则化项L1和L2的直观理解](https://blog.csdn.net/jinping_shi/article/details/52433975)<br>
 [更好地理解正则化：可视化模型权重分布](https://community.bigquant.com/t/%E6%9B%B4%E5%A5%BD%E5%9C%B0%E7%90%86%E8%A7%A3%E6%AD%A3%E5%88%99%E5%8C%96%EF%BC%9A%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E5%9E%8B%E6%9D%83%E9%87%8D%E5%88%86%E5%B8%83/113188)<br>
+
+[HMM与分词、词性标注、命名实体识别](http://www.hankcs.com/nlp/hmm-and-segmentation-tagging-named-entity-recognition.html)
+
+[如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)
+
+[Johns Hopkins大学Jason Eisner教授的HMM教程](http://www.cs.jhu.edu/~jason/papers/#eisner-2002-tnlp)(可互动的excel示例，非常直观)
+
+[一文搞懂HMM（隐马尔可夫模型）](https://www.cnblogs.com/skyme/p/4651331.html)
+
+[Dynamics of optimizing Gaussian mixture models](http://www.cs.jhu.edu/~jason/tutorials/GMM-optimization.html)
+
 <br>
 
 ### 其他<br>
