@@ -102,6 +102,7 @@
 [语义文本相似度研究进展](https://cloud.tencent.com/developer/news/224166)<br>
 (必读)[句子相似度算法比较 Comparing Sentence Similarity Methods](http://nlp.town/blog/sentence-similarity/)<br>
 [TF-IDF简介](https://www.cnblogs.com/en-heng/p/5848553.html)<br>
+
 [idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)<br>
 
 [第11届INLG会议论文集](https://aclanthology.coli.uni-saarland.de/volumes/proceedings-of-the-11th-international-conference-on-natural-language-generation)
