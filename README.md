@@ -199,6 +199,8 @@
 
 [LSTM 优化之路](https://mp.weixin.qq.com/s/H0AKuKn1XQDEa06jDm3Nug)
 
+[如何为你的回归问题选择最合适的机器学习方法？](https://mp.weixin.qq.com/s?src=11&timestamp=1555468952&ver=1551&signature=P0oWM7PiddzJ82tv2m4Fdc65p8aLwiLwfXGZDMDmrawrtzoJkeGkC4-ntPqDohAM1TzbJmofMfu1pnLGtRRPWZqoTYsJ1Xd2MNLI*JFXWTRZ4J5QprWjwj*KpSALkM3p&new=1)
+
 <br>
 
 ### 聚类<br>
